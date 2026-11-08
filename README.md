@@ -4,12 +4,9 @@ Nigeria Food Price Forecasting Using Machine Learning and Time-Series Models
 
 A comparative forecasting project investigating baseline, statistical, and machine learning approaches for predicting food prices in Nigeria.
 
-Repository: Nigeria-Food-Prices-Forecasting
-Notebook: food-prices-forcasting-in-ng.ipynb
-Kaggle Notebook: Food Prices Forecasting in Nigeria
-Portfolio: Hassan Farid — Portfolio
+ - Project Repository: [Nigeria Food Prices Forecasting](https://github.com/Abdu-Fareed004/Nigeria-Food-Prices-Forecasting)
+  - Kaggle Notebook: [View Nigeria Food Prices Forecasting on Kaggle](https://www.kaggle.com/code/fareedhassan/food-prices-forcasting-in-ng)
 
-⸻
 
 1. Project Overview
 
@@ -243,14 +240,18 @@ Potential extensions include:
 
 13. Author and Project Links
 
-Hassan Farid
+## Author
+
+**Hassan Farid**
+
 Data Science | Machine Learning | Artificial Intelligence
 
-* GitHub Profile
-* Kaggle Profile
-* LinkedIn
-* Portfolio
+- Portfolio: [Visit My Portfolio](https://v0-farid-portfolio-updated.vercel.app/)
+- GitHub: [Visit My GitHub](https://github.com/Abdu-Fareed004)
+- Kaggle: [Visit My Kaggle](https://www.kaggle.com/fareedhassan)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/hassan-farid-99b9013b1)
+- Twitter/X: [Follow Me on X](https://x.com/therealfareed_4)
+- Instagram: [Follow Me on Instagram](https://www.instagram.com/thereal_fareed)
 
-⸻
 
 This project documents an applied forecasting experiment focused on Nigerian food prices, model benchmarking, and the interpretation of predictive performance.
